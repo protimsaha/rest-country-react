@@ -1,0 +1,18 @@
+.country{
+    border:3px  solid red;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+     background: linear-gradient(to right,#f8e48a 0%,#eb5454 100% );
+     
+  }
+  .country img{
+      max-width: 100%;
+      max-height:100%;
+      padding: 10px;
+      
+  }
+  .image{
+      background-color: white;
+      border-radius: 8px;
+  }
